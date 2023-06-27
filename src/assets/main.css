@@ -31,6 +31,12 @@ header {
     margin: 0;
 }
 
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 nav {
     /* make the nav stand out */
     display: flex;
